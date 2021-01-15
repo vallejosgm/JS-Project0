@@ -1,4 +1,4 @@
-# JS-Project0
+# JS-Todo
 This app should be able to add TODOs and track the number of total
 TODOs as well as the number of unchecked TODOs.
 
